@@ -8,3 +8,11 @@
   parse.py: 解析提取文献记录信息,保存为json格式.
   
   remove_dumplicate.py: 去重.
+
+2. 58CV
+
+  cv_getfrom58.py: 从58简历库中抓取简历
+  
+  cv_analyse.py: 简历信息提取评分
+  
+  58job_types.txt: 抓取的简历应聘职位
