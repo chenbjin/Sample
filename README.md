@@ -16,3 +16,10 @@
   cv_analyse.py: 简历信息提取评分
   
   58job_types.txt: 抓取的简历应聘职位
+
+3. BaiduIndex
+  
+  抓取百度指数
+  调用浏览器打开网页，登录查询，截图识别
+  sudo pip install pytesseract
+  sudo apt-get install tesseract-ocr
