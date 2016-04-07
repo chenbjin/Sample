@@ -20,6 +20,9 @@
 3. BaiduIndex
   
   抓取百度指数
-  调用浏览器打开网页，登录查询，截图识别
-  sudo pip install pytesseract
-  sudo apt-get install tesseract-ocr
+  
+  调用浏览器打开网页，登录查询，截图识别.需要ocr支持
+  
+    sudo pip install pytesseract
+    
+    sudo apt-get install tesseract-ocr
